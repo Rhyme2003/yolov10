@@ -1,0 +1,69 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cargo",
+      "score": null,
+      "points": [
+        [
+          1872.0,
+          362.0
+        ],
+        [
+          2057.0,
+          362.0
+        ],
+        [
+          2057.0,
+          610.0
+        ],
+        [
+          1872.0,
+          610.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "robot",
+      "score": null,
+      "points": [
+        [
+          1423.5714285714284,
+          16.298701298701303
+        ],
+        [
+          2000.194805194805,
+          16.298701298701303
+        ],
+        [
+          2000.194805194805,
+          479.93506493506493
+        ],
+        [
+          1423.5714285714284,
+          479.93506493506493
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "00119.jpg",
+  "imageData": null,
+  "imageHeight": 930,
+  "imageWidth": 2390,
+  "description": ""
+}

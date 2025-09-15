@@ -1,0 +1,127 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cargo",
+      "score": null,
+      "points": [
+        [
+          2113.0,
+          529.0
+        ],
+        [
+          2282.0,
+          529.0
+        ],
+        [
+          2282.0,
+          697.0
+        ],
+        [
+          2113.0,
+          697.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "cargo",
+      "score": null,
+      "points": [
+        [
+          296.0,
+          425.0
+        ],
+        [
+          435.0,
+          425.0
+        ],
+        [
+          435.0,
+          617.0
+        ],
+        [
+          296.0,
+          617.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "cargo",
+      "score": null,
+      "points": [
+        [
+          1476.0,
+          263.0
+        ],
+        [
+          1641.0,
+          263.0
+        ],
+        [
+          1641.0,
+          386.0
+        ],
+        [
+          1476.0,
+          386.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "robot",
+      "score": null,
+      "points": [
+        [
+          504.090909090909,
+          12.402597402597394
+        ],
+        [
+          1118.3766233766232,
+          12.402597402597394
+        ],
+        [
+          1118.3766233766232,
+          478.6363636363636
+        ],
+        [
+          504.090909090909,
+          478.6363636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "00050.jpg",
+  "imageData": null,
+  "imageHeight": 930,
+  "imageWidth": 2390,
+  "description": ""
+}

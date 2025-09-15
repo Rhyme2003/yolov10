@@ -1,0 +1,39 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "robot",
+      "score": null,
+      "points": [
+        [
+          1684.878048780488,
+          471.219512195122
+        ],
+        [
+          2325.121951219512,
+          471.219512195122
+        ],
+        [
+          2325.121951219512,
+          863.9024390243903
+        ],
+        [
+          1684.878048780488,
+          863.9024390243903
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "output_00140.png",
+  "imageData": null,
+  "imageHeight": 940,
+  "imageWidth": 2360
+}

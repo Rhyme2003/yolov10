@@ -1,0 +1,7 @@
+path: /home/wang/Desktop/yolov10/yolov10-main-0911/dataset_1
+train: images/train
+val: images/val
+nc: 2
+names:
+  0: cargo
+  1: robot
